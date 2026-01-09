@@ -1,4 +1,4 @@
-# Dashboard de Indicadores de Receitas e Despesas
+# Dashboard com Indicadores de Receitas e Despesas
 
 Este projeto consiste em um dashboard para análise financeira de receitas e despesas desenvolvido com Qlik Sense. O modelo de dados foi estruturado com base em tabelas de um sistema de ERP real, simulando cenários corporativos de tomada de decisão.
 
