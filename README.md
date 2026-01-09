@@ -18,9 +18,9 @@ Mova o arquivo `.qvf` para a pasta de documentos do Qlik Sense Desktop ou faça 
 
 ### Tecnologias
 
-| Componente | Tecnologia | Descrição |
-| :--- | :--- | :--- |
-| **Plataforma BI** | **Qlik Sense** | Plataforma de BI utilizada para o desenvolvimento do dashboard |
+| Componente | Tecnologia | Versão | Descrição |
+| :--- | :--- | :--- | :--- |
+| **Plataforma BI** | **Qlik Sense** | `-` | Plataforma de BI utilizada para o desenvolvimento do dashboard |
 
 ### Fontes de Dados
 
