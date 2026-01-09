@@ -14,7 +14,9 @@ Clone o repositório ou baixe o arquivo `.qvf`:
 git clone https://github.com/jorgeplatero/qlik_sense_fundamental.git
 ```
 
-Mova o arquivo `.qvf` para a pasta de documentos do Qlik Sense Desktop ou faça o upload diretamente no seu Hub do Qlik Cloud. Certifique-se de ajustar as conexões de dados para apontar para o diretório onde os arquivos de dados foram salvos e carregue os dados para processar o script e popular o modelo associativo.
+Mova o arquivo `.qvf` para a pasta de documentos do Qlik Sense Desktop ou faça o upload diretamente no seu Hub do Qlik Cloud.
+
+Certifique-se de ajustar as conexões de dados para apontar para o diretório de dados deste repositório e carregue os dados para processar o script e popular o modelo de dados.
 
 ### Tecnologias
 
